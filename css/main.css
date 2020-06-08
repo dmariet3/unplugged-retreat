@@ -104,6 +104,10 @@ html {
   color: #222;
   line-height: 1.4;
 }
+.hero-area{
+  background: url('/Users/deannathompson/Desktop/unplugged-retreat/img/jake-melara-30679-unsplash.jpg') center no-repeat #333;
+  background-size: cover;
+}
  
 body {
   font-family: 'Open Sans', sans-serif;
@@ -153,7 +157,9 @@ address {
     width: 90%;
     margin: 50px 0;
   }
- 
+ img{
+   width: 100%;
+ }
  /* -------------------- Base Header -- Footer Styles ------------------------*/
 header,
 footer{
