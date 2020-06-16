@@ -205,9 +205,11 @@ header nav ul{
   display:flex;
   justify-content: space-around;
   width: 100%;
+  margin:0;
 }
 header nav ul li {
   font-size: 1.125em;
+  margin: 0px 15px;
 }
 footer{
   text-align: center;
@@ -237,7 +239,7 @@ footer .social-icons p{
   display: flex;
   justify-content: center;
   align-items: center;
-  
+  margin: 0px 20.5px;
 }
 footer .social-icons p i{
   font-size: 1.3125em;
